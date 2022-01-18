@@ -11,8 +11,8 @@ This repository contains the PyTorch implementation of our paper: "End-to-end la
 
 # dataset
 
-downloads the GL18 dataset for training https://www.kaggle.com/google/google-landmarks-dataset  
-downloads the Oxford dataset, Paris dataset, and R-1M distractor dataset for testing http://cmp.felk.cvut.cz/revisitop/
+Downloads the GL18 dataset for training https://www.kaggle.com/google/google-landmarks-dataset  
+Downloads the Oxford dataset, Paris dataset, and R-1M distractor dataset for testing http://cmp.felk.cvut.cz/revisitop/
 
 # Training
 
